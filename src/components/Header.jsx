@@ -13,8 +13,7 @@ function Header() {
                 <p>Desain Autocad</p>
                 <div className='socialMedia'>
                     <a href='https://www.instagram.com/accounts/login/?hl=en' target="_blank"><FaInstagram /></a>
-                    <a href='https://g.co/kgs/WZrwXsG' target="_blank"><SiGoogleads /></a>
-                    <a href='https://web.whatsapp.com/' target="_blank"><FaWhatsapp /> </a>
+                    <a href='https://g.co/kgs/WZrwXsG' target="_blank"><SiGoogleads /></a>                    <a href='https://api.whatsapp.com/send?phone=6281389551281&text=assamaualaikum%20ini%20saya%20konsumen%20' target="_blank"><FaWhatsapp /> </a>
                     <a href='https://www.facebook.com/empritsine?mibextid=ZbWKwL' target="_blank"><FaFacebookF /></a>
                 </div>
             </div>
